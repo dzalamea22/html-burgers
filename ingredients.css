@@ -65,3 +65,10 @@
   background: #656565;
   border-radius: 20px 20px 200px 200px;
 }
+
+.lettuce {
+ height: 20px;
+ width: 60%;
+ background: #3ac67d;
+ border-radius: rgb(22, 150, 22)
+}
